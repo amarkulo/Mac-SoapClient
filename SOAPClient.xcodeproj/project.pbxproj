@@ -367,7 +367,7 @@
 		2A37F4A9FDCFA73011CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0410;
+				LastUpgradeCheck = 0430;
 			};
 			buildConfigurationList = C05733CB08A9546B00998B17 /* Build configuration list for PBXProject "SOAPClient" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -527,7 +527,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Todd Ditchendorf";
+				CODE_SIGN_IDENTITY = "";
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_MODEL_TUNING = G5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -559,7 +559,7 @@
 				INSTALL_PATH = /Applications;
 				ONLY_ACTIVE_ARCH = YES;
 				PRODUCT_NAME = SOAPClient;
-				SDKROOT = macosx10.6;
+				SDKROOT = macosx;
 			};
 			name = Debug;
 		};
@@ -573,7 +573,7 @@
 				INFOPLIST_FILE = "SOAPClient-Info.plist";
 				INSTALL_PATH = /Applications;
 				PRODUCT_NAME = SOAPClient;
-				SDKROOT = macosx10.6;
+				SDKROOT = macosx;
 			};
 			name = Release;
 		};
