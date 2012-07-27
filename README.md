@@ -10,3 +10,6 @@ http://code.google.com/p/mac-soapclient/
 
 Which is great, but you still have to build it yourself. So, I've built it and included it in this repository. You can download the app file here:
 
+https://github.com/tomgersic/Mac-SoapClient/raw/master/SOAPClient.zip
+
+Built and tested on OSX Lion.
